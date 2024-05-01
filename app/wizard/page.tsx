@@ -39,7 +39,7 @@ const WizardPage = async () => {
         <CardHeader>
           <CardTitle>Currency</CardTitle>
           <CardDescription>
-            Set you default currency fo transactions
+            Set your default currency fo transactions
           </CardDescription>
         </CardHeader>
         <CardContent>
